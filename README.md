@@ -13,11 +13,13 @@ You will get some idea about me and my thoughts:
 - ⚡ Fun fact: Does ant see human as God? Is millions of other small bodies co-exist inside our earth? 
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/er_ashishkarn?style=social)
-![GitHub followers](https://img.shields.io/github/followers/asharn?style=social)
-[![Medium](https://github.com/asharn/asharn/blob/master/badges/medium.svg)](https://medium.com/@er.ashishkarn)
-[![Stackoverflow](https://github.com/asharn/asharn/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/3384821/ashish-karn)
+<p  align="center">
+  <img src="https://img.shields.io/twitter/follow/er_ashishkarn?style=social" alt="Twitter Follow"/>
+  <img src="https://img.shields.io/github/followers/asharn?style=social" alt="GitHub followers"/>
+  <a href="https://medium.com/@er.ashishkarn"> <img src="https://github.com/asharn/asharn/blob/master/badges/medium.svg" alt="Medium"/></a>
+  <a href="https://stackoverflow.com/users/3384821/ashish-karn"> <img src="https://github.com/asharn/asharn/blob/master/badges/stackoverflow.svg" alt="Stackoverflow"/></a>
 
+</p></br></br>
 
 
 <p  align="center">
