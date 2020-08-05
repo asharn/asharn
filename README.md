@@ -3,7 +3,7 @@
 
 You will get some idea about me and my thoughts:
 
-- 🔭 I’m currently working on Java/Spring/hibernet wtih elastic search.
+- 🔭 I’m currently working on Java/Spring/Hibernate wtih elastic search.
 - 🌱 I’m currently learning Hybrid Cloud on Nutanix.
 - 👯 I’m looking to collaborate on an open sourse project.
 - 🤔 I’m looking for help as a suggestion with the name of different books that I need to read.
